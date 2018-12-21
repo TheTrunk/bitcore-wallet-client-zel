@@ -15,7 +15,7 @@ var tingodb = require('tingodb')({
 
 var log = require('../lib/log');
 
-var Bitcore = require('bitcore-lib-zel');
+var Bitcore = require('bitcore-lib-zelcash');
 var Bitcore_ = {
   zel: Bitcore,
 };
