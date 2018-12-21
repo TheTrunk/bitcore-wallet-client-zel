@@ -21,7 +21,7 @@ var Bitcore_ = {
 };
 
 
-var BitcorePayPro = require('bitcore-payment-protocol');
+var BitcorePayPro = require('bitcore-payment-protocol-zelcash');
 
 var BWS = require('bitcore-wallet-service-zel');
 
